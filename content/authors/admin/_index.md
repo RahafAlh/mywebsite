@@ -1,7 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
-
+title: Rahaf Alharbi
 # Username (this should match the folder name)
 authors:
 - admin
