@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Rawan Alharbi
+title: Rahaf Alharbi
 
 # Username (this should match the folder name)
 authors:
@@ -10,19 +10,19 @@ authors:
 superuser: true
 
 # Role/position
-role: CS PhD Candidate
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Northwestern University
-  url: "https://www.mccormick.northwestern.edu/computer-science/"
+- name: University of Michigan
+  url: "https://www.si.umich.edu/"
 
 
 
 
 
  # Short bio (displayed in user profile at end of posts)
-bio: CS PhD candidate
+bio: PhD Student
 
 #Research Interest:
 
@@ -66,14 +66,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a computer science Ph.D. candidate at Northwestern University.
-I work in the interdisciplinary Health Aware Bits (HABits) lab directed by my advisor Prof. Nabil Alshurafa.
-
-
-I am interested in designing and building accessible human-centered wearable systems that enhance wellbeing.
-For my Ph.D. research, I focus on improving data collection methods to enhance the privacy and accountability of behavioral sensing wearable systems.
-
-
+EDIT THIS RAHAF
 
 
 
