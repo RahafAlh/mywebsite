@@ -66,11 +66,10 @@ user_groups:
 - Researchers
 - Visitors
 ---
-My name is Rahaf. I am a first year Ph.D. student, advised by Dr. Robin Brewer & Dr. Sarita Schoenebeck in the Social Media Research Lab. Previously, I worked with Dr. Josiah Hester in Ka Moamoa Lab at Northwestern University. In broad terms, my current research interests sit at the intersection of Disability Studies, Accessibility, Social Computing, and Human-Computer Interaction.  
+My name is Rahaf. I'm a first-year Ph.D. student, advised by Dr. Robin Brewer & Dr. Sarita Schoenebeck in the Social Media Research Lab. Previously, I worked with Dr. Josiah Hester in Ka Moamoa Lab at Northwestern University. In broad terms, my current research interests sit at the intersection of Disability Studies, Accessibility, Social Computing, and Human-Computer Interaction.  
 
 I received a Bachelor of Science degree in Mechanical Engineering from the University of California, San Diego in March 2020. Gratefully, my undergraduate journey was fully-funded by the KAUST Gifted Student Program. 
 
-Outside of academia, you can find me performing spoken word poetry, playing with my cat, and trying to do stand-up comedy. 
 
 
 
