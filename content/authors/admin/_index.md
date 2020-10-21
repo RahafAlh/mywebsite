@@ -66,9 +66,9 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I'm a first-year Ph.D. student, advised by <a href="https://www.w3schools.com/">Visit W3Schools.com!</a> & Dr. Sarita Schoenebeck in the Social Media Research Lab. Previously, I worked with Dr. Josiah Hester in Ka Moamoa Lab at Northwestern University. In broad terms, my current research interests sit at the intersection of Disability Studies, Accessibility, Social Computing, and Human-Computer Interaction.  
+I'm a first-year Ph.D. student, advised by <a href="http://robinbrewer.com/">Dr. Robin Brewer</a> & <a href="https://yardi.people.si.umich.edu/">Dr. Sarita Schoenebeck</a> in the Social Media Research Lab. Previously, I worked with <a href="https://josiahhester.com/cv/">Dr. Josiah Hester</a> in <a href="http://kamoamoa.eecs.northwestern.edu/">Ka Moamoa Lab</a> at Northwestern University. In broad terms, my current research interests sit at the intersection of Disability Studies, Accessibility, Social Computing, and Human-Computer Interaction.  
 
-I received a Bachelor of Science degree in Mechanical Engineering from the University of California, San Diego in March 2020. Gratefully, my undergraduate journey was fully-funded by the KAUST Gifted Student Program. 
+I received a Bachelor of Science degree in Mechanical Engineering from the <a href="https://ucsd.edu/">University of California, San Diego</a> in March 2020. Gratefully, my undergraduate journey was fully-funded by the KAUST Gifted Student Program. 
 
 
 
