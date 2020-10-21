@@ -41,16 +41,16 @@ bio: PhD Student
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:rawanalharbi@northwestern.edu
+  link: mailto:rmalharb@umich.edu
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/RawanAlharbi
+  link: https://twitter.com/Rmalharb
 - icon: coursera
   icon_pack: ai
   link: https://scholar.google.com/citations?user=U0DFD2sAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/rawanalharbi
+  link: https://github.com/rahafalh
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,7 +66,11 @@ user_groups:
 - Researchers
 - Visitors
 ---
-EDIT THIS RAHAF
+My name is Rahaf. I am a first year Ph.D. student, advised by Dr. Robin Brewer & Dr. Sarita Schoenebeck in the Social Media Research Lab. Previously, I worked with Dr. Josiah Hester in Ka Moamoa Lab at Northwestern University. In broad terms, my current research interests sit at the intersection of Disability Studies, Accessibility, Social Computing, and Human-Computer Interaction.  
+
+I received a Bachelor of Science degree in Mechanical Engineering from the University of California, San Diego in March 2020. Gratefully, my undergraduate journey was fully-funded by the KAUST Gifted Student Program. 
+
+Outside of academia, you can find me performing spoken word poetry, playing with my cat, and trying to do stand-up comedy. 
 
 
 
