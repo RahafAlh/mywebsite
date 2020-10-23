@@ -13,5 +13,5 @@ authors:
 - Ada Ng
 - Rawan Alharbi
 - Josiah Hester
-featured: false
+featured: true
 ---
