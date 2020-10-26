@@ -24,14 +24,10 @@ organizations:
  # Short bio (displayed in user profile at end of posts)
 bio: PhD Student
 
-#Research Interest:
+Research Interest:
 
 
-#education:
-#  courses:
-#  - course: PhD in Computer Science
-#    institution: Northwestern University
-#    year: 2021
+
    
 
 # Social/Academic Networking ###gg
@@ -45,9 +41,6 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Rmalharb
-- icon: coursera
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=U0DFD2sAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/rahafalh
