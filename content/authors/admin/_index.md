@@ -70,6 +70,8 @@ I'm a first-year Ph.D. student, advised by <a href="http://robinbrewer.com/">Dr.
 
 I received a Bachelor of Science degree in Mechanical Engineering from the <a href="https://ucsd.edu/">University of California, San Diego</a> in March 2020. Gratefully, my undergraduate journey was fully-funded by the KAUST Gifted Student Program. 
 
+I can be contacted at: rmalharb at umich dot edu 
+
 ⚠️ This website is currently under construction.
 
 
