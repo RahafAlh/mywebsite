@@ -24,7 +24,6 @@ organizations:
  # Short bio (displayed in user profile at end of posts)
 bio: PhD Student
 
-Research Interest:
 
 
 
@@ -44,6 +43,8 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/rahafalh
+  
+ email: rmalharb
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
