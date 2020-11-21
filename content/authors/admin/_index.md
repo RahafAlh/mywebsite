@@ -59,7 +59,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I'm a first-year Ph.D. student, advised by <a href="http://robinbrewer.com/">Dr. Robin Brewer</a> & <a href="https://yardi.people.si.umich.edu/">Dr. Sarita Schoenebeck</a> in the Social Media Research Lab. Previously, I worked with <a href="https://josiahhester.com/cv/">Dr. Josiah Hester</a> in <a href="http://kamoamoa.eecs.northwestern.edu/">Ka Moamoa Lab</a> at Northwestern University. In broad terms, my current research interests sit at the intersection of Disability Studies, Accessibility, and Human-Computer Interaction. I study power asymmetries in "assistive technology," and reimagine ways of shifting agency and control to disabled people. 
+I'm a first-year Ph.D. student, advised by <a href="http://robinbrewer.com/">Dr. Robin Brewer</a> & <a href="https://yardi.people.si.umich.edu/">Dr. Sarita Schoenebeck</a> in the Social Media Research Lab. Previously, I worked with <a href="https://josiahhester.com/cv/">Dr. Josiah Hester</a> in <a href="http://kamoamoa.eecs.northwestern.edu/">Ka Moamoa Lab</a> at Northwestern University. In broad terms, my current research interests sit at the intersection of Disability Studies, Accessibility, and Human-Computer Interaction. I study power asymmetries in "assistive technology" and imagine ways that redistribute agency and control to disabled people. 
 
 I received a Bachelor of Science degree in Mechanical Engineering from the <a href="https://ucsd.edu/">University of California, San Diego</a> in March 2020. Gratefully, my undergraduate journey was fully-funded by the KAUST Gifted Student Program. 
 
