@@ -56,7 +56,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I'm a second-year Ph.D. student, advised by <a href="http://robinbrewer.com/">Dr. Robin Brewer</a> & <a href="https://yardi.people.si.umich.edu/">Dr. Sarita Schoenebeck</a> in the Social Media Research Lab. My research sits at the intersection of disability studies, accessibility and human-computer interaction (HCI). Working towards an accessible and just future, I explore ways to design and refuse technologies with disabled people. 
+I'm a second-year Ph.D. student, advised by <a href="http://robinbrewer.com/">Dr. Robin Brewer</a> & <a href="https://yardi.people.si.umich.edu/">Dr. Sarita Schoenebeck</a> in the Social Media Research Lab (SMRL) and Accessibility, HCI, and Aging (AHA) group. My research sits at the intersection of disability studies, accessibility and human-computer interaction (HCI). Working towards an accessible and just future, I explore ways to design and refuse technologies with disabled people. 
 
 Previously, I worked with <a href="https://josiahhester.com/cv/">Dr. Josiah Hester</a> in <a href="http://kamoamoa.eecs.northwestern.edu/">Ka Moamoa Lab</a> at Northwestern University. I received a Bachelor of Science degree in Mechanical Engineering from the <a href="https://ucsd.edu/">University of California, San Diego</a> in March 2020.  
 
